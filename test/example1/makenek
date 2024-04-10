@@ -5,11 +5,8 @@
 # source path 
 SOURCE_ROOT="$HOME/Nekbone/src" 
 
-# Fortran compiler
-F77="mpif77"
-
-# C compiler
-CC="mpicc"
+F77=mpif77
+CC=mpicc
 
 # pre-processor symbol list 
 # (set PPLIST=? to get a list of available symbols)
